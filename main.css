@@ -1,0 +1,14 @@
+body {
+  background: #000;
+  color; #ccc;
+  font-family: 'Arial';
+}
+
+#frame {
+  height: 100%; 
+  border: 1px solid white;
+}
+
+a {
+  color: white;
+}
