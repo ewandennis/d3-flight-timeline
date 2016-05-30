@@ -23,4 +23,4 @@ static -p 8000
 
 ### Notes
 
-If you'd like to download the rendered SVG, uncomment the line which creates the download botton at the bottom of main.js.
+If you'd like to download the rendered SVG, uncomment the line which creates the download button at the bottom of main.js.
